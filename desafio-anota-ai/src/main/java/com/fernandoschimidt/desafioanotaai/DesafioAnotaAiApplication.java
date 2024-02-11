@@ -8,7 +8,6 @@ import org.springframework.data.mongodb.repository.config.EnableMongoRepositorie
 @EnableMongoRepositories()
 public class DesafioAnotaAiApplication
 {
-
 	public static void main(String[] args) {
 		SpringApplication.run(DesafioAnotaAiApplication.class, args);
 	}
